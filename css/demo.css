@@ -2,7 +2,7 @@
 
 /* General Demo Style */
 body{
-	font-family: Cambria, Georgia, serif;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	background: #f9f9f9 url(../images/bg.jpg);
 	font-weight: 300;
 	font-size: 15px;
@@ -85,10 +85,14 @@ a{
 }
 /* Demo Buttons Style */
 .codrops-demos{
-    text-align:center;
+	text-align: center;
 	display: block;
-	line-height: 30px;
-	padding: 5px 0px;
+	line-height: 50px;
+	color: #333;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
 }
 .codrops-demos a{
     display: inline-block;
